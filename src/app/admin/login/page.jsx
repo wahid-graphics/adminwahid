@@ -111,7 +111,7 @@ export default function AdminLogin() {
           <div className="mt-8 p-4 bg-or/5 border border-or/20 rounded-sm">
             <p className="text-[10px] font-bold text-ink-muted uppercase tracking-wider mb-2">Default Credentials</p>
             <p className="text-xs text-ink-soft font-mono">Username: <span className="text-or font-bold">wahidgraphics</span></p>
-            <p className="text-xs text-ink-soft font-mono mt-1">Password: <span className="text-or font-bold">WahidAdmin@2025</span></p>
+            <p className="text-xs text-ink-soft font-mono mt-1">Password: <span className="text-or font-bold">WahidAdmin@2026</span></p>
             <p className="text-[10px] text-ink-faint mt-3">⚠️ Change these in Vercel Environment Variables before going live.</p>
           </div>
 
